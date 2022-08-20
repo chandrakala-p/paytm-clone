@@ -10,7 +10,7 @@ Chandrakala P
 
 ### Live project Link:
 
-[project link](https://product-design-land-page-project15.netlify.app/)
+[project link](https://pay-tm-clone.netlify.app/)
 
 ## What I learnt from this Project?
 
